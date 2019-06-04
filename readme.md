@@ -2,7 +2,9 @@
 
 Script for create raster images of membership cards, visiting cards, certificates, diplomas etc from vector (SVG) template with filling of specified text fields.
 
-# Dependencies
+# OS and dependencies
+
+Tested on Ubuntu 18.04.
 
 The [Wand](https://pypi.org/project/Wand/) pip package is a wrapper over [ImageMagick](https://en.wikipedia.org/wiki/ImageMagick).
 So, ImageMagick should be installed in the system.
